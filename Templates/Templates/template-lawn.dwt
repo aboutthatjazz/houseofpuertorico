@@ -1,0 +1,331 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- DW6 -->
+<head>
+<!-- Copyright 2005 Macromedia, Inc. All rights reserved. -->
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>House of Puerto Rico - Welcome</title>
+<!-- TemplateEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="stylesheet" href="../images-web/hprsd.css" type="text/css" />
+<script language="JavaScript" type="text/javascript">
+//--------------- LOCALIZEABLE GLOBALS ---------------
+var d=new Date();
+var monthname=new Array("January","February","March","April","May","June","July","August","September","October","November","December");
+//Ensure correct for language. English is "January 1, 2004"
+var TODAY = monthname[d.getMonth()] + " " + d.getDate() + ", " + d.getFullYear();
+//---------------   END LOCALIZEABLE   ---------------
+</script>
+<style type="text/css">
+<!--
+body {
+	background-color: #ffffff;
+	font-size: 12px;
+	color: #666666;
+	font-style: normal;
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
+.style1 {color: #FFFFFF}
+.style3 {color: #993300}
+.style4 {color: #E7E7E7}
+.style6 {color: #E7E7E7; font-size: 9px; }
+-->
+</style>
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+</head>
+<body>
+<table width="102%" border="0" cellspacing="0" cellpadding="0">
+  <tr bgcolor="#ABBDFB">
+    <td colspan="3" rowspan="2" bgcolor="#3d5273"><a href="../index.html"><img src="../images-web/casita/Casita_short-dec08.jpg" alt="House of Puerto Rico San Diego" width="382" height="101" border="0" /></a></td>
+    <td height="50" colspan="3" align="center" valign="bottom" nowrap="nowrap" bgcolor="#3d5273" id="logo"><div align="center"><span class="logo">House of Puerto Rico San Diego</span></div></td>
+    <td width="3" bgcolor="#021c57">&nbsp;</td>
+  </tr>
+
+  <tr bgcolor="#D5EDB3">
+    <td height="51" colspan="3" align="center" valign="top" bgcolor="#3d5273" id="tagline"><span class="tagline">SHARING OUR CULTURE SINCE 1972</span></td>
+	<td width="3" bgcolor="#021c57">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td colspan="7" bgcolor="#5C743D"><img src="../images-web/spacer.gif" alt="" width="1" height="2" border="0" /></td>
+  </tr>
+
+  <tr>
+    <td colspan="7" background="../images-web/dashed_line.gif"><img src="../images-web/dashed_line.gif" alt="line decor" width="4" height="3" border="0" /></td>
+  </tr>
+
+  <tr bgcolor="#99CC66">
+  	<td height="20" colspan="7" bgcolor="#b90000" id="dateformat">&nbsp;&nbsp;
+    <script language="JavaScript" type="text/javascript">
+      document.write(TODAY);	</script></td>
+  </tr>
+  <tr>
+    <td colspan="7" background="../images-web/dashed_line.gif"><img src="../images-web/dashed_line.gif" alt="line decor" width="4" height="3" border="0" /></td>
+  </tr>
+
+  <tr>
+    <td colspan="7" bgcolor="#5C743D"><img src="../images-web/spacer.gif" alt="" width="1" height="2" border="0" /></td>
+  </tr>
+
+ <tr>
+    <td width="178" valign="top" bgcolor="#b90000">
+	<table border="0" cellspacing="0" cellpadding="0" width="165" id="navigation">
+        <tr>
+          <td width="165">&nbsp;<br />
+		 &nbsp;<br /></td>
+        </tr>
+        <tr>
+          <td width="165" bgcolor="#b90000"><a href="../index.html" class="navText">Home</a></td>
+        </tr>
+        <tr>
+          <td width="165" bgcolor="#b90000"><a href="../pr.html" class="navText">About Puerto Rico</a></td>
+        </tr>
+        <tr>
+          <td width="165" bgcolor="#b90000"><a href="../aboutus.html" class="navText">About HPRSD </a></td>
+        </tr>
+        <tr>
+          <td width="165" bgcolor="#b90000"><a href="../membership.html" class="navText">Become a member  </a></td>
+        </tr>
+        <tr>
+          <td width="165" bgcolor="#b90000"><a href="../casita.html" class="navText">La Casita Museum </a></td>
+        </tr>
+        <tr>
+          <td width="165" bgcolor="#b90000"><a href="../pride.html" class="navText">Pride in Our Own</a></td>
+        </tr>  
+        <tr>
+          <td width="165" bgcolor="#b90000"><a href="../volunteers.html" class="navText">Volunteers</a></td>
+        </tr>        
+        <tr>
+          <td width="165" bgcolor="#b90000"><a href="../sponsors.html" class="navText">Sponsors</a></td>
+        </tr>  
+        <tr>
+          <td width="165" bgcolor="#b90000"><a href="../links.html" class="navText">Interesting Links</a></td>
+        </tr>
+		<tr>
+          <td width="165" bgcolor="#b90000"><a href="../directions.html" class="navText">Directions</a></td>
+        </tr>
+        <tr>
+          <td width="165" bgcolor="#b90000"><a href="../contactus.html" class="navText">Contact Us</a></td>
+        </tr>
+      </table>
+ 	<div align="center">&nbsp;
+ 	  <div align="center">
+ 	    <div align="center">
+          <div align="center">
+            <table border="0" cellspacing="0" cellpadding="3" bgcolor="#ffffcc" style="border:2px solid #3d5273;">
+              <tr bgcolor="#00CCFF">
+                <td height="10" align="center" bgcolor="#e7e7e7" class="style22" style="font-weight: bold; font-family:Verdana,Geneva,Arial,Helvetica,sans-serif; font-size:12px; color:#000000;">Join Our Mailing List</td>
+              </tr>
+              <tr>
+                <td align="center" bgcolor="#ffffff" style="border-top:2px solid #3d5273"><form action="http://eaui.constantcontact.com/d.jsp" method="post" name="ccoptin" target="_blank" id="ccoptin" style="margin-bottom:2;">
+                    <p>
+                      <input type="hidden" name="m" value="1101530023487" />
+                      <input type="hidden" name="p" value="oi" />
+                      <span style="font-family: Arial, Helvetica, sans-serif"><font style="font-weight: normal; font-family:Verdana,Geneva,Arial,Helvetica,sans-serif; font-size:12px; color:#000000;">Email:</font></span><br />
+                      <input type="text" name="ea" size="20" value="" style="font-size:10pt; border:1px solid #999999;" />
+                      <input type="submit" name="go" value="Go" class="submit" style="font-family:Verdana,Geneva,Arial,Helvetica,sans-serif; font-size:10pt;" />
+                    </p>
+                </form></td>
+              </tr>
+            </table>
+            <div align="center"> <a href="http://www.constantcontact.com/safesubscribe.jsp" target="_blank"><img src="http://img.constantcontact.com/ui/images1/safe_subscribe_logo.gif" border="0" width="168" height="14" alt="Sign up to receive our e-newsletters and e-alerts!" vspace="5"/></a></div>
+          </div>
+ 	       </div>
+ 	    </div>
+ 	  <p><img src="../images-web/logos/logo-color_dec08_150.jpg" alt="House of Puerto Rico San Diego" width="150" height="204" /><br />
+ 	    <span class="Body_bold3"><br />
+ 	      </span><span class="sm_Body_bold3">HPRSD is A Non Profit Organization IRS code <br />
+          501 (C)   3<br />
+        </span></p>
+ 	  <p class="Body_bold3">Voice Mail: <br />
+ 	    619-234-3445</p>
+ 	  <p><span class="sm_Body_bold3">EMail:</span><span class="style35"><br class="sm_Body_bold3" />
+  </span><span class="sm_BodyText3">hprsd@houseofpuertorico.com</span></p>
+ 	  </div></td>
+    <td width="50"><img src="../images-web/spacer.gif" alt="" width="50" height="1" border="0" /></td>
+    <td colspan="2" valign="top"><img src="../images-web/spacer.gif" alt="" width="305" height="1" border="0" /><br />
+	&nbsp;<br />
+	&nbsp;<br />
+	<table border="0" cellspacing="0" cellpadding="0" width="476">
+        <tr>
+          <td width="476" class="pageName style3"><div align="center"><!-- TemplateBeginEditable name="Edit-PageTitle" --><span class="pageName">ccc:</span><span class="style31"><br />
+          </span><span class="subHeader16">ccc</span><!-- TemplateEndEditable --></div></td>
+		</tr>
+        <tr>
+          <td class="pageName style3 style12"><hr /></td>
+        </tr>
+
+		<tr>
+          <td class="bodyText"><!-- TemplateBeginEditable name="Edit-BodyContent" -->
+            <p class="bodyText2"><br />
+                <img src="../images-web/prflag_50.gif" alt="Puerto Rican Flag" width="50" height="37" hspace="2" align="left" />ccc</p>
+            <p class="bodyText2">ccc </p>
+            <span class="subHeader14">Section</span>
+            <p align="left" class="bodyText2">ccc</p>
+            <p class="subHeader14">Section</p>
+            <p class="bodyText2">ccc<a href="mailto:hprsd@houseofpuertorico.com"></a></p>
+          <!-- TemplateEndEditable --></td>
+        </tr>
+      </table>
+	<!--mstheme-->
+	<br />	</td>
+    <td width="30"><img src="../images-web/spacer.gif" alt="" width="30" height="1" border="0" /></td>
+        <td width="257" valign="top" bordercolor="#006600" bgcolor="#3d5273"><br />
+		<table border="0" cellspacing="0" cellpadding="0" width="257" id="leftcol">
+
+	   <tr>
+       <td width="21" bgcolor="#3d5273"><img src="../images-web/spacer.gif" alt="" width="10" height="1" border="0" /></td>
+		<td width="220" bgcolor="#e7e7e7" class="smallText"><div align="center">
+		  <table width="220" border="0" cellpadding="0">
+            <tr>
+              <td width="12">&nbsp;</td>
+              <td width="192"><div align="center">
+                <p><span class="subHeader14">UPCOMING EVENTS</span><br />
+                    <span class="style4"><span class="style7"><strong><strong><img src="../images-web/lawn/Hector-and-Manny_216.jpg" alt="Hector &amp; Manny rehearsing music from Puerto Rico" width="216" height="162" vspace="5" border="0" longdesc="current.html" /></strong><br />
+                    </strong></span></span><span class="body_bold-14"><strong>HPRSD Lawn Program</strong></span><span class="style4"> <br />
+                    </span><span class="bodyText">September 14, 2008<br />
+International Cottages Stage, <br />
+Balboa Park </span><br />
+<span class="sm_body_bold">[ <a href="../lawn.html"> Learn more... </a>]</span> <span class="sm_body_bold"><br />
+                  </span>
+                  <span class="style6">...</span>
+                <div align="left"><span class="subHeader14">ACTIVITIES</span></div>
+              </div>
+                <ul class="bodyList">
+                  <li class="bodyText">
+                    <div align="left"><a href="../membermtg.html">HPRSD Membership Meeting</a>, 1st Saturday</div>
+                  </li>
+                  <li class="bodyText">
+                    <div align="left"><a href="../kids.html">Childrens Workshop</a>, <br />
+                      1st Saturday</div>
+                  </li>
+                  <li class="bodyText">
+                    <div align="left"><a href="../domino.html">Domino Club Game Day</a>, <br />
+                      1st Sunday 
+                      <hr />
+                    </div>
+                  </li>
+                  <li class="bodyText">
+                    <div align="left"><span class="style3">D&iacute;a de Reyes Fest,</span> Jan. 3</div>
+                  </li>
+                  <li class="bodyText">
+                    <div align="left"><span class="style3">Casita Anniversary,</span> Feb. 7</div>
+                  </li>
+                  <li class="bodyText">
+                    <div align="left"><span class="style3">PR Film @ SDLFF,</span> Mar. (tbc)</div>
+                  </li>
+                  <li class="bodyText">
+                    <div align="left"><span class="style3"><a href="../donateblood.html">Blood Drive</a>,</span> May 2</div>
+                  </li>
+                  <li class="bodyText">
+                    <div align="left"><span class="style3">D&iacute;a de San Juan Family Picnic,</span> June (tbc)</div>
+                  </li>
+                  <li class="bodyText">
+                    <div align="left"><span class="style3">Lawn Program,</span> Sept 12</div>
+                  </li>
+                  <li class="bodyText">
+                    <div align="left"><a href="../cuatro08.html">Festival del Cuatro</a>, Nov. (tbc)</div>
+                  </li>
+                  <li class="bodyText">
+                    <div align="left"><a href="http://www.sdhpr.org">Balboa Park December Nights, Intl  Christmas Festival</a>, Dec. 4-5 </div>
+                  </li>
+                  <li class="bodyText">
+                    <div align="left"><a href="../gala08.html">Gala Fiesta de Navidad</a><span class="style3">, </span>Dec. (tbc)</div>
+                  </li>
+                  <li class="bodyText">
+                    <div align="left"><a href="../calendar08.html">2009 Calendar of Events</a></div>
+                  </li>
+                </ul>
+                <p align="left"><span class="subHeader14">PROGRAMS</span><br />
+                    <span class="bodyText">If you are interested in participating in one or more of the following programs, <a href="mailto:hprsd@houseofpuertorico.com">contact HPRSD</a>:</span></p>
+                <ul class="bodyList">
+                  <li class="bodyList">
+                    <div align="left"><a href="../donateblood.html">Annual Blood Drive</a></div>
+                  </li>
+                  <li class="bodyList">
+                    <div align="left"><a href="../host.html">Casita Hosting</a> </div>
+                  </li>
+                  <li class="bodyList">
+                    <div align="left"><a href="../kids.html">Children Workshops </a></div>
+                  </li>
+                  <li class="bodyList">
+                    <div align="left"><a href="../csyc.html">College Student Youth Committee</a></div>
+                  </li>
+                  <li class="bodyList">
+                    <div align="left"><a href="../cma.html">Culture, History, Music &amp; Arts </a></div>
+                  </li>
+                  <li class="bodyList">
+                    <div align="left"><a href="../damas.html">Damas del Caribe</a> </div>
+                  </li>
+                  <li class="bodyList">
+                    <div align="left"><a href="../dominoclub.html">Domino Club</a></div>
+                  </li>
+                  <li class="bodyList">
+                    <div align="left"><a href="../lead.html">Leadership Training </a></div>
+                  </li>
+                  <li class="bodyList">
+                    <div align="left"><a href="mailto:quepasa@houseofpuertorico.com">Marketing &amp; Website Team </a></div>
+                  </li>
+                  <li class="bodyList">
+                    <div align="left"><a href="../museum.html">Museum Committee</a> </div>
+                  </li>
+                  <li class="bodyList">
+                    <div align="left"><a href="../parranda.html">Parranda Group</a></div>
+                  </li>
+                  <li class="bodyList">
+                    <div align="left"><a href="../queens.html">Queens Organization </a></div>
+                  </li>
+                  <li class="bodyList">
+                    <div align="left"><a href="../beca.html">Casilda Pagan Scholarship</a></div>
+                  </li>
+                  <li class="bodyList">
+                    <div align="left"><a href="../ypros.html">Young Professionals</a></div>
+                  </li>
+                </ul>
+                <p align="left" class="subHeader14">HISTORY</p>
+                <p align="left" class="bodyText style4 style14"><span class="bodyText">Here we present <a href="../articles.html">articles</a> by fellow HPRSD members such as <em>Daniel M. L&oacute;pez</em> and <em>Dr. Antonio Grillo L&oacute;pez </em>. </span></p>
+                <p align="left"><span class="subHeader14">HPRSD NEWS</span><br />
+                    <span class="bodyText">For more news from HPRSD, <a href="../news.html">click here</a></span></p>
+                <p>&nbsp;</p></td>
+ <td width="12">&nbsp;</td>
+            </tr>
+          </table>
+		  </div>
+		  </td>
+         <td width="16" bgcolor="#3d5273">&nbsp;</td>
+        </tr>
+    </table>	</td>
+	<td width="3" bgcolor="#EDEDDE">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width="178" bgcolor="#b90000"><table width="165" border="0">
+      <tr bgcolor="#993300">
+        <td width="11" bgcolor="#b90000">&nbsp;</td>
+        <td width="130" bgcolor="#b90000"><div align="center" class="style36"><span class="tinyText3">Website design by </span><br />
+              <span class="tiny_bold3"><strong><a href="mailto:quepasa@houseofpuertorico.com" class="tiny_bold4">HPRSD Marketing Team </a></strong></span></div></td>
+        <td width="10" bgcolor="#b90000">&nbsp;</td>
+      </tr>
+    </table>    </td>
+    <td width="50" bgcolor="#FFFFFF">&nbsp;</td>
+    <td width="202" bgcolor="#FFFFFF">&nbsp;</td>
+    <td width="275" bgcolor="#FFFFFF">&nbsp;</td>
+    <td width="30" bgcolor="#FFFFFF">&nbsp;</td>
+    <td width="257" bgcolor="#3d5273"><div align="center" class="sm_body_bold2 style1"><strong>Copyright &copy; 2008 <br />
+      House of Puerto Rico 
+    San Diego. </strong></div></td>
+	<td width="3" bgcolor="#EDEDDE">&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>

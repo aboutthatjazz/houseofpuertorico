@@ -1,0 +1,4 @@
+#!/bin/sh
+export PHPRC=/www/www.houseofpuertorico.com/php4
+export PHP_FCGI_MAX_REQUESTS=1000
+exec /usr/local/bin/php4-cgi
